@@ -10,3 +10,4 @@ public class Cliente{
     }
     public Cliente(){}
 }
+//nombre de la clase, atributos, nuestro construtor

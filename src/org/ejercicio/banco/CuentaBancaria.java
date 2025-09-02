@@ -10,3 +10,4 @@ public class CuentaBancaria{
             this.saldo = s;
         }
 }
+//clase, atributos, tenemos un objeto con un atributo, cuenta bancaria, constructor que recibe un cliente
